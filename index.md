@@ -91,3 +91,13 @@ Anna: +4915171732969
 **WAS SICH NICHT EIGNET**
 
 Essen, das schnell abläuft oder beim Transport beschädigt werden kann.
+
+### Links
+
+#### Deutsch
+- [Humanitäre Hilfe für Ukraine - Karlsruhe](https://t.me/+FiioV2UtYG0wNzA6)
+
+#### Mehrsprachige Gruppen
+- [Gäste aus der Ukraine bei Karlsruhe](https://t.me/gostizukraini)
+- [Solidarität Ukraine Karlsruhe](https://t.me/+AONMSwz2i405MDQ6)
+- [Ukraine Karlsruhe](https://t.me/ukraine_karlsruhe)
