@@ -10,9 +10,6 @@
 
 ### Wo?
 
-**KIT Campus Ost, Rintheimer Querallee2, Karlsruhe**
+**KIT Campus Ost, Rintheimer Querallee 2, Karlsruhe**
 
 ### Aktuelle Liste
-
-### Support or Contact
-
