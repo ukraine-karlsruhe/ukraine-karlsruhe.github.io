@@ -11,6 +11,7 @@
 ### Wo?
 
 **KIT Campus Ost, Rintheimer Querallee 2, Karlsruhe**
+([auf den Google Map](https://goo.gl/maps/njkCL8emVqZkPza36))
 
 ### Kontakte
 
@@ -98,6 +99,6 @@ Essen, das schnell abläuft oder beim Transport beschädigt werden kann.
 - [Humanitäre Hilfe für Ukraine - Karlsruhe](https://t.me/+FiioV2UtYG0wNzA6)
 
 #### Mehrsprachige Gruppen
-- [Gäste aus der Ukraine bei Karlsruhe](https://t.me/gostizukraini)
 - [Solidarität Ukraine Karlsruhe](https://t.me/+AONMSwz2i405MDQ6)
+- [Gäste aus der Ukraine bei Karlsruhe](https://t.me/gostizukraini)
 - [Ukraine Karlsruhe](https://t.me/ukraine_karlsruhe)
