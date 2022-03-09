@@ -1,27 +1,28 @@
-# #helpUkraine
+## #helpUkraine
 
 **Herzlich willkommen! Wir sammeln Spanden für die Kriegsopfer in der Ukraine!**
 
 ![#helpUkraine](images/flyer_01.jpeg "#helpUkraine")
 
-## Wann?
+### Wann?
 
 **Mo-Fr von 18 - 20 Uhr**
 
-## Wo?
+### Wo?
 
 **KIT Campus Ost, Rintheimer Querallee 2, Karlsruhe**
 
-## Kontakte
+### Kontakte
 
 Andrey: +491782126751
+
 Anna: +4915171732969
 
-## Aktuelle Liste
+### Aktuelle Liste
 
-### MEDIKAMENTE
-- fiebersenkende Medikamente (Paracetamol…)
-- Schmerzmittel (Ibuprofen…)
+#### MEDIKAMENTE
+- fiebersenkende Medikamente (Paracetamol etc)
+- Schmerzmittel (Ibuprofen etc)
 - Mittel gegen Durchfall
 - Mittel gegen Husten
 - Einwegmasken/wiederverwendbare Masken
@@ -34,28 +35,28 @@ Anna: +4915171732969
 - Auto-Verbandskästen
 - Blutstillung (Celox)
 - Blutdruckmessgeräte
-- Tourniqueten (wie hier: https://www.zentauron.de/de/tourniquets/2869-skala-tourniquet.html)
+- Tourniqueten (wie hier: <https://www.zentauron.de/de/tourniquets/2869-skala-tourniquet.html>)
 - Atraumatische chirurgische Nadeln (Atraumatic surgical needles №2,3,4)
 - Ventrikelkatheter (Ventricular catheters for drainage)
 - Insulin
 - Aceton-Teststreifen
 
-### AUSRÜSTUNG
+#### AUSRÜSTUNG
 - Stirnlampe
 - Batterien AAA, AA
 - Schlafsäcke
 - Thermosflasche 0.5-1L
-- Isomatten (wie https://www.bergfreunde.de/schaumstoff-isomatten/)
+- Isomatten (wie <https://www.bergfreunde.de/schaumstoff-isomatten/>)
 - Walkie-Talkies
 - Taschenlampen
 - Fernglas
-- Powerbanks + Kabeln (USB, USB-C, Lightning…)
+- Powerbanks + Kabeln (USB, USB-C, Lightning etc)
 - WD40
 - Balaklava (Maske)
 - Multi-Tool-Messer
 - Tabletten zur Wasserdesinfektion
 
-### LEBENSMITTEL
+#### LEBENSMITTEL
 - Protein- Musli Riegel
 - Trockenobst
 - Reis
@@ -68,12 +69,12 @@ Anna: +4915171732969
 - Schokolade
 - Tierfuttern (am wichtigsten für Hunde)
 
-### HYGIENEARTIKEL
+#### HYGIENEARTIKEL
 - Waschpulver
 - Feuchttücher
 - Seife
 
-### VERPACKUNGSMATERIAL
+#### VERPACKUNGSMATERIAL
 - Umzugskarton - wie viel wie möglich!
 - Klebeband (transparent)
 - Frischhaltefolie
