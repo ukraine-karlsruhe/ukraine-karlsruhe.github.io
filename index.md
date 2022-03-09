@@ -1,27 +1,25 @@
-## #helpUkraine
+# #helpUkraine
 
 **Herzlich willkommen! Wir sammeln Spanden für die Kriegsopfer in der Ukraine!**
 
 ![#helpUkraine](images/flyer_01.jpeg "#helpUkraine")
 
-### Wann?
+## Wann?
 
 **Mo-Fr von 18 - 20 Uhr**
 
-### Wo?
+## Wo?
 
 **KIT Campus Ost, Rintheimer Querallee 2, Karlsruhe**
 
-### Kontakte:
+## Kontakte
 
+Andrey: +491782126751
+Anna: +4915171732969
 
-### Aktuelle Liste
+## Aktuelle Liste
 
-**!!! BITTE KEINE KLEIDUNG!!!**
-
-(Kleidung ist schon genug. Wir dürfen leider gar keine mehr Kleidung zu der Grenze senden).
-
-#### MEDIKAMENTE:
+### MEDIKAMENTE
 - fiebersenkende Medikamente (Paracetamol…)
 - Schmerzmittel (Ibuprofen…)
 - Mittel gegen Durchfall
@@ -42,7 +40,7 @@
 - Insulin
 - Aceton-Teststreifen
 
-#### AUSRÜSTUNG
+### AUSRÜSTUNG
 - Stirnlampe
 - Batterien AAA, AA
 - Schlafsäcke
@@ -57,7 +55,7 @@
 - Multi-Tool-Messer
 - Tabletten zur Wasserdesinfektion
 
-##### LEBENSMITTEL
+### LEBENSMITTEL
 - Protein- Musli Riegel
 - Trockenobst
 - Reis
@@ -70,12 +68,12 @@
 - Schokolade
 - Tierfuttern (am wichtigsten für Hunde)
 
-#### HYGIENEARTIKEL
+### HYGIENEARTIKEL
 - Waschpulver
 - Feuchttücher
 - Seife
 
-#### VERPACKUNGSMATERIAL:
+### VERPACKUNGSMATERIAL
 - Umzugskarton - wie viel wie möglich!
 - Klebeband (transparent)
 - Frischhaltefolie
@@ -83,7 +81,12 @@
 - Papier Format A4
 - Schere
 
+**BITTE KEINE KLEIDUNG!**
+
+(Kleidung ist schon genug. Wir dürfen leider gar keine mehr Kleidung zu der Grenze senden).
+
 **Das WICHTIGSTE davon wären – Medikamente**
 
 **WAS SICH NICHT EIGNET**
+
 Essen, das schnell abläuft oder beim Transport beschädigt werden kann.
