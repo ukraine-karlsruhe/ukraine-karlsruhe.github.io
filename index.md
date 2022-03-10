@@ -15,9 +15,9 @@
 
 ### Kontakte
 
-Andrey: +491782126751
-
-Anna: +4915171732969
+Valentin: +4915755481256<br/>
+Andrey: +491782126751<br/>
+Anna: +4915171732969<br/>
 
 ### Aktuelle Liste
 
