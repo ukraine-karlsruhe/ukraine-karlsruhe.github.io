@@ -15,7 +15,7 @@
 
 ### Kontakte
 
-<[karlsruhetogetherukraine@gmail.com](mailto:karlsruhetogetherukraine@gmail.com)<br/>
+[karlsruhetogetherukraine@gmail.com](mailto:karlsruhetogetherukraine@gmail.com)<br/>
 Valentin: +4915755481256<br/>
 Andrey: +491782126751<br/>
 Anna: +4915171732969<br/>
