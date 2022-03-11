@@ -200,5 +200,6 @@ empfang@kleintierzentrum-durlach.de
 - [Помощь в Германии](https://t.me/+OAt4Xa4bi-llY2Fi)
 - [Карлсруэ Украина. Размещение](https://t.me/ukrinikarlsruhe)
 - [Подарю в Карлсруэ](https://t.me/karlsruhespendenfuerukraine)
+- [КультурКа: выставки, музеи, экскурсии](https://t.me/+VPKgWXvtZl5jZTY0)
 - [Ассоциация «Украинцы в Карлсруэ»](http://ukrainer-in-karlsruhe.org/)
 - [Ассоциация «Помощь беженцам»](http://fluechtlingshilfe-karlsruhe.de/)
