@@ -1,4 +1,4 @@
-## #helpUkraine
+## Solidarität für Ukraine
 
 **Herzlich willkommen! Wir sammeln Spanden für die Kriegsopfer in der Ukraine!**
 
