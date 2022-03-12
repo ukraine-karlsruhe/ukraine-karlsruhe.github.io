@@ -1,6 +1,6 @@
 ## Solidarität für Ukraine
 
-**Herzlich willkommen! Wir sammeln Spanden für die Kriegsopfer in der Ukraine!**
+**Herzlich willkommen! Wir sammeln Spenden für die Kriegsopfer in der Ukraine!**
 
 ![#helpUkraine](images/flyer_01.jpeg "#helpUkraine")
 
@@ -69,7 +69,7 @@ Anna: +4915171732969<br/>
 - Baby-Trockennahrung
 - Süßigkeiten für Kinder
 - Schokolade
-- Tierfuttern (am wichtigsten für Hunde)
+- Tierfuttern (am Wichtigsten für die Hunde)
 
 #### HYGIENEARTIKEL
 - Waschpulver
@@ -77,7 +77,7 @@ Anna: +4915171732969<br/>
 - Seife
 
 #### VERPACKUNGSMATERIAL
-- Umzugskarton - wie viel wie möglich!
+- Umzugskarton - so viel wie möglich!
 - Klebeband (transparent)
 - Frischhaltefolie
 - Textmarker, Kugelschreiber
@@ -86,9 +86,9 @@ Anna: +4915171732969<br/>
 
 **BITTE KEINE KLEIDUNG!**
 
-(Kleidung ist schon genug. Wir dürfen leider gar keine mehr Kleidung zu der Grenze senden).
+(Kleidung gibt es schon genug. Wir dürfen leider gar keine Kleidung mehr an die Grenze schicken).
 
-**Das WICHTIGSTE davon wären – Medikamente**
+**Das WICHTIGSTE davon wären die Medikamente**
 
 **WAS SICH NICHT EIGNET**
 
@@ -103,3 +103,4 @@ Essen, das schnell abläuft oder beim Transport beschädigt werden kann.
 - [Solidarität Ukraine Karlsruhe](https://t.me/+AONMSwz2i405MDQ6)
 - [Gäste aus der Ukraine bei Karlsruhe](https://t.me/gostizukraini)
 - [Ukraine Karlsruhe](https://t.me/ukraine_karlsruhe)
+- [FAQ](https://ukraine-karlsruhe.github.io/FAQ/)
