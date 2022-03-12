@@ -92,7 +92,9 @@
 
 #### WiFi
 
-- список бесплатных точек доступа: <https://www.wifimap.io/856-karlsruhe-free-wifi/map>
+Информация о бесплатных точках доступа:
+- <https://www.ka-wlan.de>
+- <https://www.wifimap.io/856-karlsruhe-free-wifi/map>
 
 #### Обмен валюты
 
