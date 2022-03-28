@@ -2,7 +2,7 @@
 
 **Herzlich willkommen! Wir sammeln Spenden für die Kriegsopfer in der Ukraine!**
 
-![#helpUkraine](images/flyer_03.jpeg "#helpUkraine")
+![#helpUkraine](images/flyer_04.jpeg "#helpUkraine")
 
 ### Wann?
 
