@@ -1,5 +1,5 @@
 ## Kontakte
-### Solidarität für Ukraine
+### Blau-Gelbe Brücke - Solidarität mit der Ukraine
 
 [karlsruhetogetherukraine@gmail.com](mailto:karlsruhetogetherukraine@gmail.com)<br/>
 
