@@ -1,8 +1,8 @@
-## Solidarität für Ukraine
+## Blau-Gelbe Brücke - Solidarität mit der Ukraine
 
 **Herzlich willkommen! Wir sammeln Spenden für die Kriegsopfer in der Ukraine!**
 
-![#helpUkraine](images/flyer_02.jpeg "#helpUkraine")
+![#helpUkraine](images/flyer_03.jpeg "#helpUkraine")
 
 ### Wann?
 
@@ -100,7 +100,7 @@ Essen, das schnell abläuft oder beim Transport beschädigt werden kann.
 - [Humanitäre Hilfe für Ukraine - Karlsruhe](https://t.me/+FiioV2UtYG0wNzA6)
 
 #### Mehrsprachige Gruppen
-- [Solidarität Ukraine Karlsruhe](https://t.me/+AONMSwz2i405MDQ6)
+- [Blau-Gelbe Brücke. Solidarität mit der Ukraine](https://t.me/+AONMSwz2i405MDQ6)
 - [Gäste aus der Ukraine bei Karlsruhe](https://t.me/gostizukraini)
 - [Ukraine Karlsruhe](https://t.me/ukraine_karlsruhe)
 - [FAQ](https://ukraine-karlsruhe.github.io/FAQ/)

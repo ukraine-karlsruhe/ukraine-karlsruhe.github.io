@@ -298,8 +298,8 @@ empfang@kleintierzentrum-durlach.de
 
 ### КОНТАКТЫ
 
-- [Solidarität für Ukraine](https://ukraine-karlsruhe.github.io)
-- [Солидарность Ukraine Karlsuhe](https://t.me/+AONMSwz2i405MDQ6)
+- [Blau-Gelbe Brücke - Solidarität mit der Ukraine](https://ukraine-karlsruhe.github.io)
+- [Blau-Gelbe Brücke. Солидарность Карлсруе - Украина](https://t.me/+AONMSwz2i405MDQ6)
 - [Украина Карлсруэ](https://t.me/ukraine_karlsruhe)
 - [Гості з України у Карлсруе](https://t.me/gostizukraini)
 - [Помощь в Германии](https://t.me/+OAt4Xa4bi-llY2Fi)
