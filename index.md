@@ -4,9 +4,7 @@
 
 ### Anzeige
 
-__DRINGEND:__
-
-__Am Freitag werden humanitäre Güter für die Ukraine gesammelt! Das Fahrzeug fährt am Samstag in die Ukraine los, und zwar nach Kyiv und Kharkiv.__
+__DRINGEND: Am Freitag werden humanitäre Güter für die Ukraine gesammelt! Das Fahrzeug fährt am Samstag in die Ukraine los, und zwar nach Kyiv und Kharkiv.__
 
 Unsere Aufgabe ist es, das Fahrzeug mit Lebensmitteln (Konserven, Trockenwaren, Schokolade), hygienischen Waren (Zahnpasta, Seife, Damenbinden usw), Kindernahrung, Windeln, Isomatten, Schlafsäcke, Batterien, Taschenlampen, Thermoskannen, Männerschuhen u.ä. vollzupacken.
 
