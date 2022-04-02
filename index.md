@@ -2,22 +2,12 @@
 
 **Herzlich willkommen! Wir sammeln Spenden für die Kriegsopfer in der Ukraine!**
 
-### Anzeige
+### Spenden
 
-__DRINGEND: Am Freitag werden humanitäre Güter für die Ukraine gesammelt! Das Fahrzeug fährt am Samstag in die Ukraine los, und zwar nach Kyiv und Kharkiv.__
+Empfänger: __Blau-Gelbe Brücke e.V.__<br/>
+IBAN: __DE21 6619 0000 0010 6672 08__<br/>
+Verwendungszweck: __Hilfe für die Ukraine__<br/>
 
-Unsere Aufgabe ist es, das Fahrzeug mit Lebensmitteln (Konserven, Trockenwaren, Schokolade), hygienischen Waren (Zahnpasta, Seife, Damenbinden usw), Kindernahrung, Windeln, Isomatten, Schlafsäcke, Batterien, Taschenlampen, Thermoskannen, Männerschuhen u.ä. vollzupacken.
-
-Wir haben bereits drei Autos nach Ukraine geschickt, und haben Video- und Fotobeweise über eine sichere Ankunft gekriegt, sowie Dankesbriefe.
-
-__Die Hilfe wird am 1. April 9-20 Uhr am Unseren Lager gesammelt!__
-
-__Adresse: Rintheimer Querallee 2, 76131 Karlsruhe (erkennbar an der ukrainischen Fahne rechts)__
-
-Kontakte:<br/>
-Pavlo +49 1525 763 1966 (deutsch, ukrainisch, russisch, englisch)<br/>
-Irina +49 1514 528 2635 (englisch, russisch, ukrainisch)<br/>
-Anna +4915171732969 (russisch, deutsch, englisch)<br/>
 
 ![#helpUkraine](images/flyer_04.jpeg "#helpUkraine")
 
@@ -32,7 +22,7 @@ Anna +4915171732969 (russisch, deutsch, englisch)<br/>
 
 ### Kontakte
 
-[karlsruhetogetherukraine@gmail.com](mailto:karlsruhetogetherukraine@gmail.com)<br/>
+[blaugelbebruecke@gmail.com](mailto:blaugelbebruecke@gmail.com)<br/>
 Valentin: +4915755481256<br/>
 Andrey: +491782126751<br/>
 Anna: +4915171732969<br/>
