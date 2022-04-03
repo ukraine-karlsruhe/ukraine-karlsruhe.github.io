@@ -6,7 +6,7 @@
 
 Empfänger: __Blau-Gelbe Brücke e.V.__<br/>
 IBAN: __DE21 6619 0000 0010 6672 08__<br/>
-Verwendungszweck: __Hilfe für die Ukraine__<br/>
+Verwendungszweck: __Help for Ukraine__<br/>
 
 
 ![#helpUkraine](images/flyer_04.jpeg "#helpUkraine")
