@@ -296,6 +296,7 @@ empfang@kleintierzentrum-durlach.de
 Группа поддержки в поиске работы и профессиональной интеграции в Карлсруэ: <https://t.me/+KMWVxI6gjBhlMDk6>
 
 ### РЕСУРСЫ
+- [Ukraine-Support Karlsruhe USKA - Informationen](https://padlet.com/RePaTho/n82e1sbthf0hyh4n)
 - [Информация для беженцев из Украины](https://www.goethe.de/prj/mwd/ru/ukraine.html)
 - [Blau-Gelbe Brücke - Solidarität mit der Ukraine](https://ukraine-karlsruhe.github.io)
 - [Blau-Gelbe Brücke. Солидарность Карлсруэ - Украина](https://t.me/+AONMSwz2i405MDQ6)
