@@ -8,24 +8,13 @@ Empfänger: __Blau-Gelbe Brücke e.V.__<br/>
 IBAN: __DE21 6619 0000 0010 6672 08__<br/>
 Verwendungszweck: __Help for Ukraine__<br/>
 
-
-![#helpUkraine](images/flyer_04.jpeg "#helpUkraine")
-
 ### Wann?
 
-**Mo-Fr von 18 - 20 Uhr**
-
 ### Wo?
-
-**KIT Campus Ost, Rintheimer Querallee 2, Karlsruhe**
-([auf den Google Map](https://goo.gl/maps/njkCL8emVqZkPza36))
 
 ### Kontakte
 
 [blaugelbebruecke@gmail.com](mailto:blaugelbebruecke@gmail.com)<br/>
-Valentin: +4915755481256<br/>
-Andrey: +491782126751<br/>
-Anna: +4915171732969<br/>
 
 ### Aktuelle Liste
 
